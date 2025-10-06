@@ -1,0 +1,180 @@
+{
+  "judul_ujian": "TKA ENGLISH EXAM - SET 2 (PEMBAHASAN)",
+  "mata_pelajaran": "Bahasa Inggris (Pemahaman Bacaan)",
+  "total_soal": 19,
+  "pembahasan_per_teks": [
+    {
+      "teks": "Susi Susanti: The Unyielding Queen of Badminton",
+      "soal": [
+        {
+          "nomor": 1,
+          "jenis": "Matching (Menjodohkan)",
+          "pertanyaan": "Match Susi Susanti's achievements with the correct description.",
+          "jawaban_benar": "1-B, 2-A, 3-C",
+          [cite_start]"pembahasan": "1. 1992 Barcelona Olympics (B): Ajang di mana ia memenangkan medali emas Olimpiade pertama Indonesia[cite: 13]. 2. [cite_start]All England Open (A): Ajang yang ia menangkan sebanyak empat kali[cite: 14]. 3. [cite_start]1993 World Championships (C): Gelar besar yang ia raih setahun setelah kemenangan Olimpiade[cite: 14]."
+        },
+        {
+          "nomor": 2,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "Which of the following are mentioned as key characteristics of Susi Susanti's playing style?",
+          "jawaban_benar": ["Exceptional physical endurance", "Highly skilled and precise techniques", "Quick and agile movement on the court"],
+          [cite_start]"pembahasan": "Karakteristiknya adalah 'incredible stamina' (endurance), 'agile footwork' (movement), dan 'exceptional technical skill'[cite: 10]. [cite_start]Gayanya berbeda dengan yang mengandalkan serangan agresif (*aggressive, powerful smashes*)[cite: 10]."
+        },
+        {
+          "nomor": 3,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What were the key moments or aspects of Susi Susanti's career highlighted in the text?",
+          "jawaban_benar": ["Her historic gold medal win at the 1992 Olympics", "Her multiple victories at the All England Open tournament", "Her famous backhand drop shot technique"],
+          [cite_start]"pembahasan": "Teks menyoroti puncak karier (Olimpiade 1992) [cite: 13][cite_start], kemenangan All England empat kali [cite: 14][cite_start], dan 'signature shot' *backhand drop shot*[cite: 12]. [cite_start]Masa kecil dan persaingan tidak disorot[cite: 27, 30]."
+        },
+        {
+          "nomor": 4,
+          "jenis": "Multiple Choice",
+          "pertanyaan": "What is the author's overall tone towards Susi Susanti?",
+          "jawaban_benar": "(C) Admiring and reverent",
+          [cite_start]"pembahasan": "Nada penulis adalah mengagumi (Admiring and reverent) terlihat dari penggunaan frasa seperti 'national hero', 'thing of beauty', dan 'icon of perseverance'[cite: 8, 12, 14]."
+        }
+      ]
+    },
+    {
+      "teks": "Graffiti: Public Art or Urban Blight?",
+      "soal": [
+        {
+          "nomor": 5,
+          "jenis": "Classification (Klasifikasi)",
+          "pertanyaan": "Based on the arguments presented in the text, classify each statement below.",
+          "jawaban_benar": {
+            "It can make a city look neglected and rundown.": "Argument for \"Vandalism\"",
+            "It gives a platform to underrepresented groups.": "Argument for \"Art\"",
+            "It is done without the property owner's permission.": "Argument for \"Vandalism\"",
+            "It can beautify monotonous city walls.": "Argument for \"Art\""
+          },
+          [cite_start]"pembahasan": "Argumen 'Art' melihatnya sebagai suara bagi 'marginalized communities' [cite: 42] [cite_start]dan memperindah kota[cite: 42]. [cite_start]Argumen 'Vandalism' melihatnya sebagai tindakan ilegal tanpa izin [cite: 47, 49] [cite_start]yang menciptakan 'urban decay'[cite: 47]."
+        },
+        {
+          "nomor": 6,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "According to the text, what criteria do proponents use to define graffiti as a legitimate art form?",
+          "jawaban_benar": ["The ability to convey social or political messages", "The technical proficiency of the artist", "The intention to create something aesthetically pleasing"],
+          [cite_start]"pembahasan": "Kriteria dari pendukung: *comment on social and political issues* [cite: 43][cite_start], *technical skill with spray paint* [cite: 43][cite_start], dan *aesthetic intent*[cite: 44]."
+        },
+        {
+          "nomor": 7,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What are the negative social impacts of graffiti as discussed in the passage?",
+          "jawaban_benar": ["The financial burden of cleaning it up", "A potential decrease in the value of properties", "The creation of an atmosphere of urban decay"],
+          [cite_start]"pembahasan": "Dampak negatif meliputi 'cost of removal' [cite: 50][cite_start], 'decreased property values' [cite: 48][cite_start], dan 'sense of urban decay and neglect'[cite: 47]."
+        },
+        {
+          "nomor": 8,
+          "jenis": "Multiple Choice",
+          "pertanyaan": "What is the primary purpose of this expository text?",
+          "jawaban_benar": "(D) To present the two main, opposing viewpoints in the graffiti debate.",
+          [cite_start]"pembahasan": "Teks ini bersifat ekspositori yang tujuannya adalah memaparkan dua pandangan utama yang bertentangan ('proponents' vs 'opponents') mengenai graffiti[cite: 41, 46, 73]."
+        }
+      ]
+    },
+    {
+      "teks": "Safeguarding Your Digital Self: A Guide to Online Privacy",
+      "soal": [
+        {
+          "nomor": 9,
+          "jenis": "Classification (Klasifikasi)",
+          "pertanyaan": "Based on the text, classify the following online behaviors.",
+          "jawaban_benar": {
+            "Using the same simple password for all accounts.": "Risky Action (Don't)",
+            "Posting your flight ticket with the barcode visible.": "Risky Action (Don't)",
+            "Enabling two-factor authentication (2FA).": "Recommended Action (Do)",
+            "Setting your social media profile to \"Private\".": "Recommended Action (Do)"
+          },
+          [cite_start]"pembahasan": "Tindakan yang direkomendasikan adalah menggunakan 'two-factor authentication (2FA)' [cite: 83] [cite_start]dan membatasi siapa yang dapat melihat kiriman ('Limit who can see your posts' / 'Private')[cite: 87]. [cite_start]Tindakan berisiko adalah mempublikasikan informasi pribadi ('phone number', 'full address', 'financial details') [cite: 81] [cite_start]atau menggunakan sandi yang tidak kuat[cite: 83, 84]."
+        },
+        {
+          "nomor": 10,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "According to the text, which types of personal information are considered high-risk to share publicly?",
+          "jawaban_benar": ["Your home address", "Your credit card number", "Your personal phone number"],
+          [cite_start]"pembahasan": "Informasi berisiko tinggi yang disebutkan adalah 'full address, phone number, and financial details'[cite: 81]. Nomor kartu kredit termasuk 'financial details'."
+        },
+        {
+          "nomor": 11,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What strategies for password security are specifically mentioned in the passage?",
+          "jawaban_benar": ["Using a combination of different character types", "Making passwords long rather than short", "Activating two-factor authentication"],
+          [cite_start]"pembahasan": "Strategi yang dianjurkan adalah: menggunakan kombinasi *mix of upper and lower-case letters, numbers, and symbols* [cite: 84][cite_start], sandi yang 'long' [cite: 84][cite_start], dan *two-factor authentication (2FA)*[cite: 83]."
+        },
+        {
+          "nomor": 12,
+          "jenis": "Multiple Choice",
+          "pertanyaan": "What is the main recommendation that this hortatory exposition text gives to the reader?",
+          "jawaban_benar": "(B) To actively manage privacy settings and be cautious about sharing personal data.",
+          "pembahasan": "Teks ini bersifat hortatori (anjuran). [cite_start]Rekomendasi utamanya adalah berhati-hati dengan apa yang dibagikan ('be mindful of what you share') [cite: 80] [cite_start]dan meninjau pengaturan privasi ('regularly review your privacy settings')[cite: 85]."
+        }
+      ]
+    },
+    {
+      "teks": "Butet Manurung and the Forest School",
+      "soal": [
+        {
+          "nomor": 13,
+          "jenis": "Sequencing (Pengurutan)",
+          "pertanyaan": "The following are key events in Butet Manurung's journey. Arrange them in the correct chronological order.",
+          "jawaban_benar": {
+            "She faced suspicion from the Orang Rimba community.": 1,
+            "She developed the Sokola Rimba educational model.": 2,
+            "She taught practical literacy skills related to their daily life.": 3,
+            "Her work received international recognition.": 4
+          },
+          [cite_start]"pembahasan": "Urutan kronologis: Awalnya menghadapi 'suspicion and resistance' [cite: 116] (1)[cite_start], kemudian ia mengembangkan 'Sokola Rimba' [cite: 117] (2)[cite_start], lalu ia menerapkan metode pengajaran praktis [cite: 119] (3)[cite_start], dan terakhir karyanya diakui 'internationally' [cite: 121] (4)."
+        },
+        {
+          "nomor": 14,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What challenges did Butet Manurung face when she started her work with the Orang Rimba?",
+          "jawaban_benar": ["Initial distrust and resistance from the community", "The fear that education would erode their traditional culture"],
+          [cite_start]"pembahasan": "Tantangan yang disebutkan adalah 'deep suspicion and resistance' [cite: 116] [cite_start]dan kekhawatiran bahwa pendidikan akan 'alienate their children from their traditions'[cite: 116]."
+        },
+        {
+          "nomor": 15,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What are the main principles or goals of the Sokola Rimba educational approach described in the text?",
+          "jawaban_benar": ["To make learning relevant to the community's daily life", "To empower the community to protect themselves from exploitation", "To teach practical skills like reading and basic mathematics"],
+          [cite_start]"pembahasan": "Tujuannya: membuat metode yang 'adapted... to the community's context and needs' [cite: 118] (relevan)[cite_start], mengajarkan 'literacy and numeracy' [cite: 119] (keterampilan praktis)[cite_start], dan memberikan 'practical skills to navigate and defend themselves against the exploitative outside world' [cite: 120] (memberdayakan)."
+        },
+        {
+          "nomor": 16,
+          "jenis": "Multiple Choice",
+          "pertanyaan": "What can be inferred as Butet Manurung's primary motivation for her work?",
+          "jawaban_benar": "(C) To empower indigenous communities through context-based education.",
+          [cite_start]"pembahasan": "Motivasi utamanya adalah menjadikan pendidikan sebagai 'tool of empowerment' yang 'culturally sensitive and relevant' untuk membantu mereka 'defend themselves against the exploitative outside world'[cite: 120, 121]."
+        }
+      ]
+    },
+    {
+      "teks": "Smart Money: Managing Your Finances with Digital Tools",
+      "soal": [
+        {
+          "nomor": 17,
+          "jenis": "Matching (Menjodohkan)",
+          "pertanyaan": "Based on the text, match the financial term to its correct definition.",
+          "jawaban_benar": "1-C, 2-A, 3-B",
+          "pembahasan": "1. [cite_start]Automated Tracking (C): Fitur yang secara otomatis mencatat dan mengategorikan pengeluaran ('automatically track your spending, and allow you to categorize each transaction')[cite: 151]. 2. [cite_start]Spending Limits (A): Batas pengeluaran untuk kategori tertentu[cite: 154]. 3. [cite_start]Micro-saving (B): Metode *round-up* di mana sejumlah kecil uang ditransfer ke tabungan secara otomatis[cite: 156, 157]."
+        },
+        {
+          "nomor": 18,
+          "jenis": "Multiple Selection",
+          "pertanyaan": "What features of budgeting apps are highlighted in the text as being most useful for students?",
+          "jawaban_benar": ["The ability to connect to a bank account for automatic data entry", "A function to set spending caps for various categories", "Automatic transfer of small, rounded-up amounts to savings"],
+          [cite_start]"pembahasan": "Fitur yang disorot: *link directly to your bank account* [cite: 151][cite_start], kemampuan *set spending limits* [cite: 154][cite_start], dan fitur *round-up* untuk *micro-saving*[cite: 156, 157]."
+        },
+        {
+          "nomor": 19,
+          "jenis": "Multiple Choice",
+          "pertanyaan": "According to the procedure described in the text, what is the essential first step a student should take to manage money with digital tools?",
+          "jawaban_benar": "(B) To choose and set up a suitable budgeting application.",
+          [cite_start]"pembahasan": "Teks secara eksplisit menyatakan: 'The first step is to choose a suitable budgeting application'[cite: 150]."
+        }
+      ]
+    }
+  ]
+}
