@@ -1,0 +1,305 @@
+[
+  // --- QUESTIONS 1 - 4: Susi Susanti ---
+  {
+    "id": 1,
+    "tipe": "MATCHING_PAIR",
+    "soal": "Based on the text, match Susi Susanti's achievements with the correct description.",
+    "kiri": ["1992 Barcelona Olympics", "All England Open", "1993 World Championships"],
+    "kanan": ["The event where she won Indonesia's first gold medal", "An event she won four times", "A major title she secured the year after her Olympic win"],
+    "jawaban_benar": {
+      "1992 Barcelona Olympics": "The event where she won Indonesia's first gold medal",
+      "All England Open": "An event she won four times",
+      "1993 World Championships": "A major title she secured the year after her Olympic win"
+    }
+  },
+  {
+    "id": 2,
+    "tipe": "PGK_MCMA",
+    "soal": "Which of the following are mentioned as key characteristics of Susi Susanti's playing style? (Select ALL that apply)",
+    "pilihan": [
+      "Exceptional physical endurance.",
+      "A game focused on aggressive attacks.",
+      "Highly skilled and precise techniques.",
+      "Quick and agile movement on the court.",
+      "A powerful and intimidating presence."
+    ],
+    "jawaban_benar": [
+      "Exceptional physical endurance.",
+      "Highly skilled and precise techniques.",
+      "Quick and agile movement on the court."
+    ]
+  },
+  {
+    "id": 3,
+    "tipe": "PGK_MCMA",
+    "soal": "What were the key moments or aspects of Susi Susanti's career highlighted in the text? (Select ALL that apply)",
+    "pilihan": [
+      "Her early life and childhood in Tasikmalaya.",
+      "Her historic gold medal win at the 1992 Olympics.",
+      "Her multiple victories at the All England Open tournament.",
+      "Her rivalry with other international players.",
+      "Her famous backhand drop shot technique."
+    ],
+    "jawaban_benar": [
+      "Her historic gold medal win at the 1992 Olympics.",
+      "Her multiple victories at the All England Open tournament.",
+      "Her famous backhand drop shot technique."
+    ]
+  },
+  {
+    "id": 4,
+    "tipe": "PG_TUNGGAL",
+    "soal": "What is the author's overall tone towards Susi Susanti?",
+    "pilihan": [
+      "(A) Critical and analytical",
+      "(B) Neutral and objective",
+      "(C) Admiring and reverent",
+      "(D) Skeptical and questioning",
+      "(E) Nostalgic and sad"
+    ],
+    "jawaban_benar": "(C) Admiring and reverent"
+  },
+
+  // --- QUESTIONS 5 - 8: Graffiti ---
+  {
+    "id": 5,
+    "tipe": "KATEGORI_KLASIFIKASI",
+    "soal": "Based on the arguments presented in the text, classify each statement below.",
+    "kategori": ["Argument for \"Art\"", "Argument for \"Vandalism\""],
+    "pernyataan": [
+      "It can make a city look neglected and rundown.",
+      "It gives a platform to underrepresented groups.",
+      "It is done without the property owner's permission.",
+      "It can beautify monotonous city walls."
+    ],
+    "jawaban_benar": {
+      "It can make a city look neglected and rundown.": "Argument for \"Vandalism\"",
+      "It gives a platform to underrepresented groups.": "Argument for \"Art\"",
+      "It is done without the property owner's permission.": "Argument for \"Vandalism\"",
+      "It can beautify monotonous city walls.": "Argument for \"Art\""
+    }
+  },
+  {
+    "id": 6,
+    "tipe": "PGK_MCMA",
+    "soal": "According to the text, what criteria do proponents use to define graffiti as a legitimate art form? (Select ALL that apply)",
+    "pilihan": [
+      "The speed at which it is created.",
+      "The ability to convey social or political messages.",
+      "The technical proficiency of the artist.",
+      "Its permanent and unremovable nature.",
+      "The intention to create something aesthetically pleasing."
+    ],
+    "jawaban_benar": [
+      "The ability to convey social or political messages.",
+      "The technical proficiency of the artist.",
+      "The intention to create something aesthetically pleasing."
+    ]
+  },
+  {
+    "id": 7,
+    "tipe": "PGK_MCMA",
+    "soal": "What are the negative social impacts of graffiti as discussed in the passage? (Select ALL that apply)",
+    "pilihan": [
+      "The financial burden of cleaning it up.",
+      "An increase in traffic accidents.",
+      "A potential decrease in the value of properties.",
+      "The physical danger to the artists themselves.",
+      "The creation of an atmosphere of urban decay."
+    ],
+    "jawaban_benar": [
+      "The financial burden of cleaning it up.",
+      "A potential decrease in the value of properties.",
+      "The creation of an atmosphere of urban decay."
+    ]
+  },
+  {
+    "id": 8,
+    "tipe": "PG_TUNGGAL",
+    "soal": "What is the primary purpose of this expository text?",
+    "pilihan": [
+      "(A) To persuade the reader to start creating graffiti.",
+      "(B) To argue that all graffiti should be legalized immediately.",
+      "(C) To condemn all graffiti artists as criminals.",
+      "(D) To present the two main, opposing viewpoints in the graffiti debate.",
+      "(E) To provide a history of the most famous graffiti artists."
+    ],
+    "jawaban_benar": "(D) To present the two main, opposing viewpoints in the graffiti debate."
+  },
+
+  // --- QUESTIONS 9 - 12: Digital Privacy ---
+  {
+    "id": 9,
+    "tipe": "KATEGORI_KLASIFIKASI",
+    "soal": "Based on the text, classify the following online behaviors.",
+    "kategori": ["Recommended Action (Do)", "Risky Action (Don't)"],
+    "pernyataan": [
+      "Using the same simple password for all accounts.",
+      "Posting your flight ticket with the barcode visible.",
+      "Enabling two-factor authentication (2FA).",
+      "Setting your social media profile to \"Private\"."
+    ],
+    "jawaban_benar": {
+      "Using the same simple password for all accounts.": "Risky Action (Don't)",
+      "Posting your flight ticket with the barcode visible.": "Risky Action (Don't)",
+      "Enabling two-factor authentication (2FA).": "Recommended Action (Do)",
+      "Setting your social media profile to \"Private\".": "Recommended Action (Do)"
+    }
+  },
+  {
+    "id": 10,
+    "tipe": "PGK_MCMA",
+    "soal": "According to the text, which types of personal information are considered high-risk to share publicly? (Select ALL that apply)",
+    "pilihan": [
+      "Your favorite movie.",
+      "Your home address.",
+      "Your credit card number.",
+      "Your opinion on a political issue.",
+      "Your personal phone number."
+    ],
+    "jawaban_benar": [
+      "Your home address.",
+      "Your credit card number.",
+      "Your personal phone number."
+    ]
+  },
+  {
+    "id": 11,
+    "tipe": "PGK_MCMA",
+    "soal": "What strategies for password security are specifically mentioned in the passage? (Select ALL that apply)",
+    "pilihan": [
+      "Changing your password every week.",
+      "Using a combination of different character types.",
+      "Making passwords long rather than short.",
+      "Activating two-factor authentication.",
+      "Writing passwords down in a public notebook."
+    ],
+    "jawaban_benar": [
+      "Using a combination of different character types.",
+      "Making passwords long rather than short.",
+      "Activating two-factor authentication."
+    ]
+  },
+  {
+    "id": 12,
+    "tipe": "PG_TUNGGAL",
+    "soal": "What is the main recommendation that this hortatory exposition text gives to the reader?",
+    "pilihan": [
+      "(A) To delete all social media accounts permanently.",
+      "(B) To actively manage privacy settings and be cautious about sharing personal data.",
+      "(C) To only use social media for professional networking purposes.",
+      "(D) To trust that social media companies will protect their data automatically.",
+      "(E) To share as much as possible to build a strong online brand."
+    ],
+    "jawaban_benar": "(B) To actively manage privacy settings and be cautious about sharing personal data."
+  },
+
+  // --- QUESTIONS 13 - 16: Butet Manurung ---
+  {
+    "id": 13,
+    "tipe": "URUTAN_KRONOLOGIS",
+    "soal": "The following are key events in Butet Manurung's journey. Arrange them in the correct chronological order (1-4).",
+    "peristiwa": [
+      "She developed the Sokola Rimba educational model.",
+      "She faced suspicion from the Orang Rimba community.",
+      "Her work received international recognition.",
+      "She taught practical literacy skills related to their daily life."
+    ],
+    "jawaban_benar": [
+      "She faced suspicion from the Orang Rimba community.", // 1
+      "She developed the Sokola Rimba educational model.", // 2
+      "She taught practical literacy skills related to their daily life.", // 3
+      "Her work received international recognition." // 4
+    ]
+  },
+  {
+    "id": 14,
+    "tipe": "PGK_MCMA",
+    "soal": "What challenges did Butet Manurung face when she started her work with the Orang Rimba? (Select ALL that apply)",
+    "pilihan": [
+      "A lack of funding from the government.",
+      "Initial distrust and resistance from the community.",
+      "The difficult and dangerous jungle terrain.",
+      "The fear that education would erode their traditional culture.",
+      "Opposition from local logging companies."
+    ],
+    "jawaban_benar": [
+      "Initial distrust and resistance from the community.",
+      "The fear that education would erode their traditional culture."
+    ]
+  },
+  {
+    "id": 15,
+    "tipe": "PGK_MCMA",
+    "soal": "What are the main principles or goals of the Sokola Rimba educational approach described in the text? (Select ALL that apply)",
+    "pilihan": [
+      "To make learning relevant to the community's daily life.",
+      "To replace traditional knowledge with a modern curriculum.",
+      "To empower the community to protect themselves from exploitation.",
+      "To encourage the Orang Rimba to leave the forest for city life.",
+      "To teach practical skills like reading and basic mathematics."
+    ],
+    "jawaban_benar": [
+      "To make learning relevant to the community's daily life.",
+      "To empower the community to protect themselves from exploitation.",
+      "To teach practical skills like reading and basic mathematics."
+    ]
+  },
+  {
+    "id": 16,
+    "tipe": "PG_TUNGGAL",
+    "soal": "What can be inferred as Butet Manurung's primary motivation for her work?",
+    "pilihan": [
+      "(A) To gain international fame and awards.",
+      "(B) To document a disappearing culture for academic purposes.",
+      "(C) To empower indigenous communities through context-based education.",
+      "(D) To prove that the national curriculum is ineffective.",
+      "(E) To start a profitable business based on jungle tourism."
+    ],
+    "jawaban_benar": "(C) To empower indigenous communities through context-based education."
+  },
+
+  // --- QUESTIONS 17 - 19: Smart Money ---
+  {
+    "id": 17,
+    "tipe": "MATCHING_PAIR",
+    "soal": "Based on the text, match the financial term to its correct definition.",
+    "kiri": ["Automated Tracking", "Spending Limits", "Micro-saving"],
+    "kanan": ["An app feature that automatically records and categorizes your spending.", "Setting spending caps for different expense types.", "Saving small amounts of money automatically from transactions."],
+    "jawaban_benar": {
+      "Automated Tracking": "An app feature that automatically records and categorizes your spending.",
+      "Spending Limits": "Setting spending caps for different expense types.",
+      "Micro-saving": "Saving small amounts of money automatically from transactions."
+    }
+  },
+  {
+    "id": 18,
+    "tipe": "PGK_MCMA",
+    "soal": "What features of budgeting apps are highlighted in the text as being most useful for students? (Select ALL that apply)",
+    "pilihan": [
+      "The ability to connect to a bank account for automatic data entry.",
+      "A function to set spending caps for various categories.",
+      "Automatic transfer of small, rounded-up amounts to savings.",
+      "A feature for investing in stocks and cryptocurrency.",
+      "A social network to compare spending with friends."
+    ],
+    "jawaban_benar": [
+      "The ability to connect to a bank account for automatic data entry.",
+      "A function to set spending caps for various categories.",
+      "Automatic transfer of small, rounded-up amounts to savings."
+    ]
+  },
+  {
+    "id": 19,
+    "tipe": "PG_TUNGGAL",
+    "soal": "According to the procedure described in the text, what is the essential first step a student should take to manage money with digital tools?",
+    "pilihan": [
+      "(A) To set a long-term savings goal.",
+      "(B) To choose and set up a suitable budgeting application.",
+      "(C) To reduce all spending on entertainment.",
+      "(D) To open a new bank account specifically for savings.",
+      "(E) To manually write down every expense in a notebook."
+    ],
+    "jawaban_benar": "(B) To choose and set up a suitable budgeting application."
+  }
+]
